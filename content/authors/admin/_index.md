@@ -71,4 +71,4 @@ I received my master degree from **The Chinese University of Hong Kong**, the de
 
 My research interests include applied cryptographic, privacy-enhacing techonology and data security and privacy. Now I am looking for research positions, all my time is available.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
