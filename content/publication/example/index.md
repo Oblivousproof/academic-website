@@ -38,7 +38,7 @@ abstract: In this paper, we propose VPFedMF, a new design aimed at privacy-prese
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+#tags: []
 
 # Display this page in the Featured widget?
 #featured: true
