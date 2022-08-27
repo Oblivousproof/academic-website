@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I received my master degree from **The Chinese University of Hong Kong**, the department of Information and Engineering, in 2022. Besides, I obtained my bachelor degree in Automation from **Nanjing University of Science and Technology**, in 2021. Previously, I was mentored by [**Prof. Yifeng Zheng**](https://yifengzcs.github.io/) and [**Prof. Yansong Gao**](https://garrisongys.github.io/garrison//).
+I received my master degree from **The Chinese University of Hong Kong**, the department of Information Engineering, in 2022. Besides, I obtained my bachelor degree in Automation from **Nanjing University of Science and Technology**, in 2021. Previously, I was mentored by [**Prof. Yifeng Zheng**](https://yifengzcs.github.io/) and [**Prof. Yansong Gao**](https://garrisongys.github.io/garrison//).
 
 My research interests include applied cryptographic, privacy-enhacing techonology and data security and privacy. Now I am looking for research positions, all my time is available.
 
